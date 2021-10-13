@@ -1,8 +1,8 @@
 # sofe3650-assign3
 ## Ontario Tech University 
 ### SOFE 3650U Software Design and Architecture Assignment #3
-####Completed for Dr. Ramiro Liscano
-####Model-View-Controller Design/Architecture Pattern for Cash Register Interface
+Completed for Dr. Ramiro Liscano <br/>
+Model-View-Controller Design/Architecture Pattern for Cash Register Interface
 
 _Group 23: Adris Azimi, Abida Choudhury, Daniel Gohara Kamel, Jessica Leishman_
 # Table of Contents
