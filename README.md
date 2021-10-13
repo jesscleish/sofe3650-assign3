@@ -39,15 +39,15 @@ _Group 23: Adris Azimi, Abida Choudhury, Daniel Gohara Kamel, Jessica Leishman_
         - [Scanner.java](https://github.com/jessica-leishman/sofe3650-assign3/blob/main/Exercise%203/Scanner.java)
         - [TestCashRegisterApp.java](https://github.com/jessica-leishman/sofe3650-assign3/blob/main/Exercise%203/TestCashRegisterApp.java)
         - [TicketPrinter](https://github.com/jessica-leishman/sofe3650-assign3/blob/main/Exercise%203/TicketPrinter.java) 
-- ## [Assignment Overview](https://github.com/jessica-leishman/sofe3650-assign3/blob/main/README.md#assignment-overview)
+- ## [Assignment Overview](https://github.com/jessica-leishman/sofe3650-assign3#assignment-overview-1)
 - ## [Output](https://github.com/jessica-leishman/sofe3650-assign3/blob/main/README.md#output)
   -  [Output Screenshot](https://github.com/jessica-leishman/sofe3650-assign3/blob/main/README.md#output-screenshot)
   -  [Expected Output](https://github.com/jessica-leishman/sofe3650-assign3/blob/main/README.md#expected-output)
 
-- ## [Advantages and Disadvantages of Each MVC Approach]()
-  - [Exercise 1: Generic MVC]()
-  - [Exercise 2: MVC - Inverted Model and View with Interface]()
-  - [Exercise 3: MVC - Inverted Model and View with Observer]()
+- ## [Advantages and Disadvantages of Each MVC Approach](https://github.com/jessica-leishman/sofe3650-assign3#advantages-and-disadvantages-of-each-mvc-approach-1)
+  - [Exercise 1: Generic MVC](https://github.com/jessica-leishman/sofe3650-assign3#exercise-1-generic-mvc)
+  - [Exercise 2: MVC - Inverted Model and View with Interface](https://github.com/jessica-leishman/sofe3650-assign3#exercise-2-inverted-model-and-view-with-interface)
+  - [Exercise 3: MVC - Inverted Model and View with Observer](https://github.com/jessica-leishman/sofe3650-assign3#exercise-3-inverted-model-and-view-with-observer)
      
      
 ---
