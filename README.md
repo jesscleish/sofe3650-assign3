@@ -40,7 +40,7 @@ _Group 23: Adris Azimi, Abida Choudhury, Daniel Gohara Kamel, Jessica Leishman_
         - [TestCashRegisterApp.java](https://github.com/jessica-leishman/sofe3650-assign3/blob/main/Exercise%203/TestCashRegisterApp.java)
         - [TicketPrinter](https://github.com/jessica-leishman/sofe3650-assign3/blob/main/Exercise%203/TicketPrinter.java) 
 - ## [Assignment Overview](https://github.com/jessica-leishman/sofe3650-assign3#assignment-overview-1)
-- ## [Output](#Output)
+- ## [Output](https://github.com/jessica-leishman/sofe3650-assign3#output-1)
   -  [Output Screenshot](https://github.com/jessica-leishman/sofe3650-assign3/blob/main/README.md#output-screenshot)
   -  [Expected Output](https://github.com/jessica-leishman/sofe3650-assign3/blob/main/README.md#expected-output)
 
