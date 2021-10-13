@@ -1,8 +1,8 @@
 # sofe3650-assign3
 ## Ontario Tech University 
 ### SOFE 3650U Software Design and Architecture Assignment #3
-Completed for Dr. Ramiro Liscano
-Model-View-Controller Design/Architecture Pattern for Cash Register Interface
+####Completed for Dr. Ramiro Liscano
+####Model-View-Controller Design/Architecture Pattern for Cash Register Interface
 
 _Group 23: Adris Azimi, Abida Choudhury, Daniel Gohara Kamel, Jessica Leishman_
 # Table of Contents
@@ -89,11 +89,11 @@ Product{UPCCode=3, name'Jesse', price=500.0}
 #### Advantages
 The main benefit seen in all three MVC implementation is that different views can be added without any necessary changes to the architecture.
 #### Disadvatages
-THe primary disadvantage of all three MVC implementations is that the views and models are linked.  In this implementation, the model needs to call the view's operators.
+The primary disadvantage of all three MVC implementations is that the views and models are linked.  In this implementation, the model needs to call the view's operators.
 
 ##  Exercise 2: Inverted Model and View with Interface
 #### Advantages
-In addition to the general MVC advantage, the Inverted Model and View with Interface also allows for different types of views to be implemented by creating new operators for the interface component.
+In addition to the general MVC advantage, the Inverted Model and View with Interface also allows for different types of views to be implemented by obveriding displayProduct() for the view component.
 
 #### Disadvatages
 However, in this implementation, the Views are additionally limited to utilizing the displayProduct() method, which does not allow them to display any new information to different users.
