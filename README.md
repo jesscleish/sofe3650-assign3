@@ -72,17 +72,17 @@ Product{UPCCode=3, name='Daniel', price=500.0}
 Ticket Printer
 Product{UPCCode=3, name='Daniel', price=500.0}
 Display
-Product{UPCCode=3, name='Adris', price=500.0}
+Product{UPCCode=2, name='Adris', price=500.0}
 Ticket Printer
-Product{UPCCode=3, name='Adris', price=500.0}
+Product{UPCCode=2, name='Adris', price=500.0}
 Display
-Product{UPCCode=3, name='Abida', price=500.0}
+Product{UPCCode=1, name='Abida', price=500.0}
 Ticket Printer
-Product{UPCCode=3, name='Abida', price=500.0}
+Product{UPCCode=1, name='Abida', price=500.0}
 Display
-Product{UPCCode=3, name='Jesse', price=500.0}
+Product{UPCCode=4, name='Jesse', price=500.0}
 Ticket Printer
-Product{UPCCode=3, name'Jesse', price=500.0}
+Product{UPCCode=4, name'Jesse', price=500.0}
 ```
 # Advantages and Disadvantages of Each MVC Approach
 ## Exercise 1: Generic MVC
